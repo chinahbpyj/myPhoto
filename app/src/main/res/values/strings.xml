@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyPhoto</string>
+
+    <string name="share">分享</string>
+
+    <string name="px">500Px</string>
+    <string name="you">游侠客</string>
+    <string name="setting">设置</string>
+
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="daily">每日一句</string>
+</resources>
